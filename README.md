@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Welcome to our comprehensive end-to-end data engineering project tailored for e-commerce. In this project, We have meticulously crafted a streamlined data pipeline to handle diverse datasets from various sources. The journey involves extracting data from CSV files, utilizing Alteryx for minimal transformations, transferring it to SQL Server for staging, and further refining it with Power Query transformations. Finally, we delve into SQL Server for data modeling and leverage Power BI for insightful analysis.
+In this project, We have meticulously crafted a streamlined data pipeline to handle diverse datasets from various sources. The journey involves extracting data from CSV files, utilizing Alteryx for minimal transformations, transferring it to SQL Server for staging, and further refining it with Power Query transformations. Finally, we delve into SQL Server for data modeling and leverage Power BI for insightful analysis.
 
 ![pipeline Diagram](pipeline_Digram.png)
 
@@ -89,12 +89,7 @@ Location KPIs:
 
 ![Location KPIs](5.%20Final%20Insights/Location_KPIs.png)
 
-## Project Presentation
-
-https://www.canva.com/design/DAGLSNmMjnY/zuvLf9NSOqPTa5dd-iJNVA/edit?utm_content=DAGLSNmMjnY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-
 
 ### Conclusion:
 
-This project showcases the integration of Alteryx for efficient ETL processes, Power Query for meticulous transformations, and SQL Server along with Power BI for insightful analysis. Join me in exploring the intricacies of data engineering, from CSV extraction to strategic insights in the context of an ever-evolving e-commerce industry.
+This project showcases the integration of Alteryx for efficient ETL processes, Power Query for meticulous transformations, and SQL Server along with Power BI for insightful analysis.
